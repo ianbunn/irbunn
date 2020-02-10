@@ -1,6 +1,6 @@
 {
   "name": "irbunn",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal npm card for Ian R. Bunn (@irb)",
   "main": "dist/card.js",
   "unpkg": "index.html",
