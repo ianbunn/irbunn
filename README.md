@@ -12,7 +12,7 @@ npx irbunn
 
 Idea and trend started by [Tierney (@bitandbang)]
 
-To create your own, use [create-my-card].
+To create your own, follow the steps here: [create-my-card].
 
 ie: `npm init my-card`
 
